@@ -3,6 +3,8 @@
 The first part of this project implements the Mixture of Gaussian classifier from scratch (without using any existing machine learning libraries e.g. sklearn) for optical recognition of handwritten digits dataset. 
 
 The second part of this project focuses on the analysis in terms of classification accuracy, time efficiency and expressivity.
+
+My implementation of Logistic Regression: https://github.com/Eason-Sun/Implementation-of-Logistic-Regression-Using-Newtons-Method
 ## Dataset:
 Link: http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits  
 
