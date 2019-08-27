@@ -1,0 +1,1 @@
+# Implementation-of-Mixture-of-Gaussian-Classifier-and-Comparision-with-Logistic-Regression
